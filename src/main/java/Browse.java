@@ -47,7 +47,7 @@ public class Browse {
         }
     }
 
-    // Oprindelige username & password: athilda   password
+
 
     public static IdentityProvider getIdentityProvider() { 
         return new UsernameProvider("sdu", "1234");
